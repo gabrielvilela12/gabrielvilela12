@@ -1,3 +1,5 @@
-### Beleza ? Me chamo Gabriel
+### Nome: Gabriel
 
-- 📚 Faço curso técnico e pretendo me aprofundar mais na área de programação
+- 📚  Cursando Técnico de informática - Senac
+- 📚 Graduando Ciencia da Computação  - Barão de Mauá
+
