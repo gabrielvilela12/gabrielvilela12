@@ -12,11 +12,9 @@
   </a>
 </div> 
 
-<br /> <!-- Quebra de linha adicionada aqui -->
+<br />
 
-<p align="center"> <!-- Centraliza o GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielvilela12&show_icons=true&theme=radical">
-</p>
 
 ## Tecnologias que tenho conhecimento
 
