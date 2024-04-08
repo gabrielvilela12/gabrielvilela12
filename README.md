@@ -4,7 +4,7 @@
 - 📚 Cursando Técnico de informática - Senac - (2023 - atualmente) 
 - 📚 Graduando Ciência da Computação - Barão de Mauá - (2024 - atualmente)
 
-  <a href="Gabrielvipeixoto7@gmail.com">[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Gabrielvipeixoto7@gmail.com)</a>
+  <a href="Gabrielvipeixoto7@gmail.com"></a>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vilela-6a02a72b7/)
 
