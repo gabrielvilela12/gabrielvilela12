@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel ✋  
 
-- 📚 Cursando Técnico de Informática - Senac (2023 - atualmente)
-- 📚 Graduando em Ciência da Computação - Barão de Mauá (2024 - atualmente)
+- 📚 Cursaodo Técnico de Informática - Finalizado
+- 📚 Graduando em Sistema de Informação - FIAP (2025 - atualmente)
 
 <div>
   <a href="mailto:Gabrielvipeixoto7@gmail.com"> 
