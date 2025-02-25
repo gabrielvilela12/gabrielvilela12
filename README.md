@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel ✋  
 
-- 📚 Cursaodo Técnico de Informática - Finalizado
+- 📚 Cursado Técnico de Informática - Finalizado
 - 📚 Graduando em Sistema de Informação - FIAP (2025 - atualmente)
 
 <div>
