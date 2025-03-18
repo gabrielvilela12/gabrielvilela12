@@ -4,7 +4,7 @@
 - 📚 Graduando em Sistema de Informação - FIAP (2025 - atualmente)
 
 <div>
-  <a href="mailto:Gabrielvipeixoto7@gmail.com"> 
+  <a href="mailto:gabrielvilela.dev@gmail.com"> 
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/gabriel-vilela-6a02a72b7/" target="_blank">
