@@ -27,6 +27,8 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
+<br>
+<br>
 <a href="https://github.com/gabrielvilela12">
     <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvilela12&layout=compact&theme=dracula&langs_count=8&hide_border=true"/>
   </a>
