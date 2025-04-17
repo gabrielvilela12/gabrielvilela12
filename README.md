@@ -14,7 +14,7 @@
 
 <br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielvilela12&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielvilela12&show_icons=true&theme=transparent">
   
 
 ## Tecnologias que tenho conhecimento
