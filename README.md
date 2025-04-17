@@ -9,9 +9,6 @@
   </a>
   <a href="https://www.linkedin.com/in/gabriel-vilela-6a02a72b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">  
- <a href="https://www.instagram.com/xgabriel_vilela/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-xgabriel__vilela-purple?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 </div>
 
 <br/>
