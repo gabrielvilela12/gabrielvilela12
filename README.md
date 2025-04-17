@@ -27,6 +27,6 @@
 </div>
 
 <a href="https://github.com/LuanRodrigues15">
-    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=LuanRodrigues15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanRodrigues15&layout=compact&theme=dracula&langs_count=8&hide_border=true"/>
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?usernamegabrielvilela12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvilela12&layout=compact&theme=dracula&langs_count=8&hide_border=true"/>
   </a>
