@@ -25,3 +25,8 @@
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
+
+<a href="https://github.com/LuanRodrigues15">
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=LuanRodrigues15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanRodrigues15&layout=compact&theme=dracula&langs_count=8&hide_border=true"/>
+  </a>
