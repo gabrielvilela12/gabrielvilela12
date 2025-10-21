@@ -57,17 +57,6 @@ Sou um estudante de Sistemas de Informação apaixonado por tecnologia e desenvo
 
 ---
 
-### 💻 Projetos em Destaque
-
-<details>
-  <summary><strong>FinanceMe - Gerenciador Financeiro Pessoal e em Grupo</strong></summary>
-  <br>
-  <p>Uma aplicação web completa para controle de finanças, permitindo o gerenciamento de transações, orçamentos, metas, parcelamentos e projeções futuras. Possui sistema de grupos para finanças compartilhadas e criptografia dos dados sensíveis.</p>
-  <p><em>Tecnologias:</em> React, TypeScript, Vite, Supabase (Auth, DB, Functions), Tailwind CSS, Shadcn/UI, Recharts, React Hook Form, CryptoJS.</p>
-  </details>
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <div align="center">  
